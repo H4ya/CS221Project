@@ -1,0 +1,4 @@
+Haya Manea Abusaq,F,18,CS,97,100,88,89,58,+966550709903,2230004310
+Mariam Barakat Pravin,F,19,CYS,100,79,90,46,98,+966547960515,2230004311
+Fatima Faiz Allaw,F,20,CYS,100,100,84,97,71,+966554059796,2230004312
+No, Name, gender, age, major, grades, Previos GPA, phone, ID
